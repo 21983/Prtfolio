@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 const symbols = '!@#$%1037^&*OQZX{}[]()_+=-0/.?><,~`';
-const wantedname = "Antonio Bottelier<br>professionele gozer";
+const wantedname = "Joppe van Basten<br>Game Developer";
 
 declare var String:any;
 String.prototype.replaceAt=function(index, replacement) {

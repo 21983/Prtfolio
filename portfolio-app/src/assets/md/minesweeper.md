@@ -1,8 +1,7 @@
 # Minesweeper
 
-In the third year of school, we had to create small test-assignments where we just create small programs/games that recruiters often use to challenge you and to see if your code is up to par for them. The first assignment was a minesweeper, where the main feature was supposed to be the flood fill.
-
-The UI resembles a Windows 98 desktop and it also uses the 98 minesweeper sprites. As extra fun I made a feature where you can move around the window and even close it. (With no way to open it again...) 
+Minesweeper was a school project where we had to make. Minesweeper especially to learn about the Floodfill algorithm.
+I made this project with
 
 ## What did I do and learn?
 
