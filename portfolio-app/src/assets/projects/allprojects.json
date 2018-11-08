@@ -25,7 +25,7 @@
 
   {
     "imageLink":"Oxygen.PNG",
-    "videoLink":"oxygen.mp4",
+    "videoLink":"Oxygen.mp4",
     "title":"Oxygen",
     "markdownLink":"oxygen.md",
     "description":"Anti Gravity was a game I made for a game maker platformer assignment, in this assignment you were just supposed to make a platformer, but I tried making the most important part fluid animation, where animation is never interrupted by what the player does. <br>Akin to Prince of Persia.",
@@ -48,8 +48,8 @@
 
   {
     "imageLink":"WhaleBait.PNG",
-    "videoLink":"whalebait.mp4",
-    "title":"Whale Bait",
+    "videoLink":"whalebait.PNG",
+    "title":"Destructible Ground",
     "markdownLink":"whalebait.md",
     "description":"Sapling & Flint was a game made for the Myth assignment at my school. We had a list of myths, and we chose Sapling and Flint.",
     "github":"https://github.com/joppevanbasten/Mythe",
@@ -68,36 +68,13 @@
       "github":"https://github.com/joppevanbasten/Mythe"
     }
   },
-
-  {
-    "imageLink":"cuphead.png",
-    "videoLink":"cuphead.mp4",
-    "title":"Cuphead",
-    "markdownLink":"cuphead.md",
-    "description":"In this Cuphead remake we focused on making a new boss for cuphead, and a fun little mode with highscores.",
-    "github":"https://github.com/lghenk/Mythe-Project",
-    "tags":["School","Unity","C#","2D"],
-
-    "info" : {
-      "Status":"Finished",
-      "Time":"4 weeks",
-      "Type":"School",
-      "Team":"2 devs, 4 artists",
-      "Language": "C#",
-      "Engine" : "Unity"
-    },
-
-    "links" : {
-      "github":"https://github.com/lghenk/Cuphead"
-    }
-  },
   {
     "imageLink":"Minesweeper.PNG",
     "videoLink":"minesweeper.mp4",
     "title":"Minesweeper",
     "markdownLink":"minesweeper.md",
     "description":"Mine sweeper made with the floodfill technique.",
-    "github":"https://github.com/stepperman/minesweeper",
+    "github":"https://github.com/joppevanbasten/minesweeper",
     "tags":["School","Javascript","2D"],
 
     "info" : {

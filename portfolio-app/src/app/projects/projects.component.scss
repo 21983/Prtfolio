@@ -1,15 +1,15 @@
 .project {
+    border-radius: 10px;
     width:886px;
-    height: 382px;
-    max-height: 382px;
+    height:382px;
+    max-height: 886px;
     display:block;
     position:absolute;
     margin: 15px;
     overflow:hidden;
     outline: 1px solid transparent;
     box-shadow: 2px 2px 20px rgba(0,0,0,0.6);
-    background-color: #383838;
-    background-color: #35273b;
+    background-color: #0f2e61;
 }
 
 .projectvideo, .projectimage {
@@ -162,7 +162,7 @@ tag::after {
 }
 
 code {
-    background-color: #dad7d2;
+    background-color: #acb4c4;
 }
 
 #info_other {
