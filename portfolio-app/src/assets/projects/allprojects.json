@@ -11,7 +11,6 @@
     "info" : {
       "Status":"Finished",
       "Time":"4 days",
-      "Type":"school",
       "Team":"Alone",
       "Language":"C#",
       "Engine":"Unity"
@@ -35,7 +34,6 @@
     "info" : {
       "Status":"Finished",
       "Time":"4 weeks",
-      "Type":"School and Personal",
       "Team":"Alone",
       "Language":"Gamemaker Language",
       "Engine": "GameMaker"
@@ -47,19 +45,18 @@
   },
 
   {
-    "imageLink":"WhaleBait.PNG",
-    "videoLink":"whalebait.PNG",
+    "imageLink":"destructibleground.PNG",
+    "videoLink":"destructibleground.mp4",
     "title":"Destructible Ground",
-    "markdownLink":"whalebait.md",
-    "description":"Sapling & Flint was a game made for the Myth assignment at my school. We had a list of myths, and we chose Sapling and Flint.",
-    "github":"https://github.com/joppevanbasten/Mythe",
+    "markdownLink":"destructibleground.md",
+    "description":"In this project i tried to make a sprite that you could destroy by throwing a bomb on it.",
+    "github":"https://github.com/joppevanbasten/destructibleground",
     "tags":["School","Unity","C#","3D"],
 
     "info" : {
       "Status":"Finished",
-      "Time":"8 weeks",
-      "Type":"School",
-      "Team":"3 devs, 4 artists",
+      "Time":"4 days",
+      "Team":"Alone",
       "Language":"C#",
       "Engine":"Unity"
     },
@@ -69,7 +66,7 @@
     }
   },
   {
-    "imageLink":"Minesweeper.PNG",
+    "imageLink":"minesweeper.png",
     "videoLink":"minesweeper.mp4",
     "title":"Minesweeper",
     "markdownLink":"minesweeper.md",
@@ -80,7 +77,6 @@
     "info" : {
       "Status":"Finished",
       "Time":"3 days",
-      "Type":"School",
       "Language": "Unity",
       "Engine" : "C#"
     },
