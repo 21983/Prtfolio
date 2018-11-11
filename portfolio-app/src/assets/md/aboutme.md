@@ -1,4 +1,5 @@
 #Joppe van Basten
 
-Ik ben Joppe van Basten. Ik woon In Zaandijk. Ik ben 17 jaar oud en ik doe de opleiding game developer op het Media College Amsterdam Ik kan goed samenwerken en ik werk graag samen. Ik programmeer voornamelijk gameplay. Ik heb de meeste ervaring met Unity(C#) en Javascript. Ik hoop dat ik de komende jaren nog veel ga leren van verschillende talen en in het algemeen met programmeren.
+I'm Joppe van Basten. I'm 18 years old, I attend a course for game-developtment at the Media College of Amsterdam. I'm in the third year and I have picked up experience on an arrangement of different skills, I have especially worked a lot with Unity (C#). I also have experience with Javascript, C++, Java and PHP. Working in groups is what I also love to do and working together in a group is one of my strengths. I hope to learn a lot more about programming the next few years.
+
  

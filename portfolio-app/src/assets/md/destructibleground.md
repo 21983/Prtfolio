@@ -12,4 +12,4 @@ After that i set those pixels to another sprite to clone it and as last i put th
 
 ### Change sprite and collider
 
-The hole is made by a collider. It checks where the hole should be created and how big the collider is of the bomb and it sets the pixels to transparent and it changes the collider by getting the physics shape and setting the path of the new collider.
+The hole is made by a collider. It checks where the hole should be created and how big the collider is of the bomb and it sets the pixels to transparent and it changes the collider by getting the physics shape and setting the path of the new collider. Before I changed the collider like that i just destroyed the polygon collider and put back a new one, However that caused performence issues. By just redrawing the collider everything was way faster.

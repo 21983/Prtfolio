@@ -1,18 +1,15 @@
 # Minesweeper
 
-Minesweeper was a school project where we had to make. Minesweeper especially to learn about the Floodfill algorithm.
-I made this project with
+Minesweeper was a project especially to learn about the Floodfill algorithm.
+I made this project alone in a couple of days.
 
 ## What did I do and learn?
 
-### Webpack
 
-Having barely used node or npm, I decided to use typescript and webpack to bundle my scripts and site. In hindsight this project would probably be easier to develop if I didn't use Webpack, but it was a good learning experience on how to use it, and I'll try and learn more about it in future projects. It did make using different classes in multiple files much easier and I appreciate that.
+### 2D Arrays
 
-### Typescript
-
-This was the first time I used Typescript, and as I really like statically typed programming language, this was no exception. Sometimes it was quite troublesome to work around it and I had to cast some objects to others, but it in the end is no problem and makes the code easier to read than with Javascript itself. 
+I haven't worked with 2D arrays a lot before this project. It wasn't to hard to figure out how to make the grid with an 2D array though. 
 
 ### Flood-fill algorithm
 
-I've known about the flood-fill algorithm before, but I've never used it in practice. It's actually just as simple as I thought and just as cool. 
+I didn't know about the flood-fill algorithm before this. After i did some research it wasn't too hard to use it.
