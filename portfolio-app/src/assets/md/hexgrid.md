@@ -1,6 +1,7 @@
 # hexgrid
 
 This is a project where i made a hexagongrid in unity C#. You can change the color of a hexagon by clicking on it.
+It's a simple project to learn how to make a grid out of hexagons.
 
 ## What did I do and learn?
 

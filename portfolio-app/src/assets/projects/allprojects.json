@@ -4,9 +4,9 @@
     "videoLink":"hexgrid.mp4",
     "markdownLink":"hexgrid.md",
     "title":"Hexagon grid",
-    "description":"Hexagon grid is a school assignment. <br> You can click on a hexagon to change it from color",
+    "description":"Hexagon grid is a simple project where I created a grid out of hexagons meshes. <br> You can click on a hexagon to change its color to white and click it again for a random color",
     "github":"https://github.com/joppevanbasten/Hexgrid",
-    "tags":["School","Unity","C#","2D"],
+    "tags":["Unity","C#","2D"],
 
     "info" : {
       "Status":"Finished",
@@ -27,14 +27,14 @@
     "videoLink":"Oxygen.mp4",
     "title":"Oxygen",
     "markdownLink":"oxygen.md",
-    "description":"Anti Gravity was a game I made for a game maker platformer assignment, in this assignment you were just supposed to make a platformer, but I tried making the most important part fluid animation, where animation is never interrupted by what the player does. <br>Akin to Prince of Persia.",
+    "description":"Oxygen is a project where we made a platformer. The goal is to pick up all the parts and go through a portal. At the end of the stage you can repair your spaceship.",
     "github":"https://github.com/joppevanbasten/Oxygen",
     "tags":["School","Gamemaker","2D"],
 
     "info" : {
       "Status":"Finished",
       "Time":"4 weeks",
-      "Team":"Alone",
+      "Team":"3 Developers 3 Artists",
       "Language":"Gamemaker Language",
       "Engine": "GameMaker"
     },
@@ -51,7 +51,7 @@
     "markdownLink":"destructibleground.md",
     "description":"In this project i tried to make a sprite that you could destroy by throwing a bomb on it.",
     "github":"https://github.com/joppevanbasten/destructibleground",
-    "tags":["School","Unity","C#","3D"],
+    "tags":["Unity","C#","3D"],
 
     "info" : {
       "Status":"Finished",
@@ -62,7 +62,8 @@
     },
 
     "links" : {
-      "github":"https://github.com/joppevanbasten/Mythe"
+      "github":"https://github.com/joppevanbasten/destructibleground",
+      "play":"https://joppevanbasten.github.io/destructibleground/"
     }
   },
   {
@@ -72,7 +73,7 @@
     "markdownLink":"minesweeper.md",
     "description":"Mine sweeper made with the floodfill technique.",
     "github":"https://github.com/joppevanbasten/minesweeper",
-    "tags":["School","Javascript","2D"],
+    "tags":["unity","C#","2D"],
 
     "info" : {
       "Status":"Finished",
