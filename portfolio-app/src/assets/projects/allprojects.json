@@ -108,5 +108,42 @@
       "github":"https://github.com/joppevanbasten/Minesweeper",
       "play":"http://stepperman.me/minesweeper"
     }
-  } 
+  },  
+  {
+    "imageLink":"wiskunde.png",
+    "videoLink":"wiskunde.mp4",
+    "title":"Applied Mathematics",
+    "markdownLink":"wiskunde.md",
+    "description":"These are some mathematic projects i did.",
+    "github":"https://github.com/joppevanbasten/",
+    "tags":["Javascript","HTML", "Maths"],
+
+    "info" : {
+      "Status":"Finished",
+      "Language":"Javascript"
+    },
+
+    "links" : {
+      "github":"https://github.com/joppevanbasten/",
+      "play":"http://joppevanbasten.nl/maths/Inequality/"
+    }
+  },
+  {
+    "imageLink":"larsonscanner.PNG",
+    "videoLink":"larsonscanners.mp4",
+    "title":"Larson Scanner",
+    "markdownLink":"larsonscanner.md",
+    "description":"A larson scanner made with an arduino.",
+    "github":"https://github.com/joppevanbasten/RND/tree/master/LarsonScanner",
+    "tags":["C++","Arduino"],
+
+    "info" : {
+      "Status":"Finished",
+      "Language":"C++"
+    },
+
+    "links" : {
+      "github":"https://github.com/joppevanbasten/RND/tree/master/LarsonScanner"
+    }
+  }
 ]
