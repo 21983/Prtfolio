@@ -23,6 +23,27 @@
   },
 
   {
+    "imageLink":"inventorysystem.png",
+    "videoLink":"inventorysystem.mp4",
+    "title":"Inventory System ",
+    "markdownLink":"inventory.md",
+    "description":"This is an inventory system in the command line made with C++.",
+    "github":"https://github.com/joppevanbasten/inventorysysteem",
+    "tags":["C++","Command Line"],
+
+    "info" : {
+      "Status":"Not Finished",
+      "Time":"3 days",
+      "Team":"Alone",
+      "Language":"C++"
+    },
+
+    "links" : {
+      "github":"https://github.com/joppevanbasten/inventorysysteem"
+    }
+  },
+
+  {
     "imageLink":"Oxygen.PNG",
     "videoLink":"Oxygen.mp4",
     "title":"Oxygen",
@@ -44,12 +65,13 @@
     }
   },
 
+
   {
     "imageLink":"destructibleground.PNG",
     "videoLink":"destructibleground.mp4",
     "title":"Destructible Ground",
     "markdownLink":"destructibleground.md",
-    "description":"In this project i tried to make a sprite that you could destroy by throwing a bomb on it.",
+    "description":"In this project i made a sprite that you could destroy by throwing a bomb on it.",
     "github":"https://github.com/joppevanbasten/destructibleground",
     "tags":["Unity","C#","3D"],
 

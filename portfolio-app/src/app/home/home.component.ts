@@ -22,10 +22,6 @@ export class HomeComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
-    //let a:HTMLAudioElement;
-    //(a = <HTMLAudioElement>document.querySelector("audio")).oncanplay = function() {
-    //  a.play();
-    //}
 
     this.namedisplay = "";
     this.currentLetter = 0;
