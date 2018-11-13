@@ -106,9 +106,30 @@
 
     "links" : {
       "github":"https://github.com/joppevanbasten/Minesweeper",
-      "play":"http://stepperman.me/minesweeper"
+      "play":"http://joppevanbasten.nl/minesweeper"
     }
-  },  
+  },
+  {
+    "imageLink":"bindingofisaac.png",
+    "videoLink":"bindingofisaac.mp4",
+    "title":"Vertical Sclice (Binding of Isaac)",
+    "markdownLink":"bindingofisaac.md",
+    "description":"This is a vertical slice project where we made a replica of Binding of Isaac.",
+    "github":"https://github.com/empireboy/BindingOfIsaacRemake",
+    "tags":["unity","C#","2D"],
+
+    "info" : {
+      "Status":"Finished",
+      "Time":"4 Weeks",
+      "Language": "Unity",
+      "Engine" : "C#"
+    },
+
+    "links" : {
+      "github":"https://github.com/empireboy/BindingOfIsaacRemake",
+      "play":"joppevanbasten.nl/bindingofisaac"
+    }
+  },   
   {
     "imageLink":"wiskunde.png",
     "videoLink":"wiskunde.mp4",
