@@ -5,7 +5,6 @@ I made this project alone in a couple of days.
 
 ## What did I do and learn?
 
-
 ### 2D Arrays
 
 I haven't worked with 2D arrays a lot before this project. It wasn't to hard to figure out how to make the grid with an 2D array though. 
