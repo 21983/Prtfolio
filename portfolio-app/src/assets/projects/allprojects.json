@@ -1,28 +1,5 @@
 [
   {
-    "imageLink":"hexgrid.png",
-    "videoLink":"hexgrid.mp4",
-    "markdownLink":"hexgrid.md",
-    "title":"Hexagon grid",
-    "description":"Hexagon grid is a simple project where I created a grid out of hexagons meshes. <br> You can click on a hexagon to change its color to white and click it again for a random color",
-    "github":"https://github.com/joppevanbasten/Hexgrid",
-    "tags":["Unity","C#","2D"],
-
-    "info" : {
-      "Status":"Finished",
-      "Time":"4 days",
-      "Team":"Alone",
-      "Language":"C#",
-      "Engine":"Unity"
-    },
-
-    "links" : {
-      "github":"https://github.com/joppevanbasten/HexGrid",
-      "play":"https://joppevanbasten.github.io/hexgrid/"
-    }
-  },
-
-  {
     "imageLink":"inventorysystem.png",
     "videoLink":"inventorysystem.mp4",
     "title":"Inventory System ",
@@ -40,6 +17,28 @@
 
     "links" : {
       "github":"https://github.com/joppevanbasten/inventorysysteem"
+    }
+  },
+  {
+    "imageLink":"hexgrid.png",
+    "videoLink":"hexgrid1.mp4",
+    "markdownLink":"hexgrid.md",
+    "title":"Hexagon grid",
+    "description":"Hexagon grid is a simple project where I created a grid out of hexagons meshes. <br> You can click on a hexagon to change its color to white or black",
+    "github":"https://github.com/joppevanbasten/Hexgrid",
+    "tags":["Unity","C#","2D"],
+
+    "info" : {
+      "Status":"Finished",
+      "Time":"4 days",
+      "Team":"Alone",
+      "Language":"C#",
+      "Engine":"Unity"
+    },
+
+    "links" : {
+      "github":"https://github.com/joppevanbasten/HexGrid",
+      "play":"http://joppevanbasten.nl/hexgrid/"
     }
   },
 
@@ -64,7 +63,27 @@
       "github":"https://github.com/joppevanbasten/Oxygen"
     }
   },
+  {
+    "imageLink":"bindingofisaac.png",
+    "videoLink":"bindingofisaac.mp4",
+    "title":"Vertical Sclice (Binding of Isaac)",
+    "markdownLink":"bindingofisaac.md",
+    "description":"This is a vertical slice project where we made a replica of Binding of Isaac.",
+    "github":"https://github.com/empireboy/BindingOfIsaacRemake",
+    "tags":["unity","C#","2D"],
 
+    "info" : {
+      "Status":"Finished",
+      "Time":"4 Weeks",
+      "Language": "Unity",
+      "Engine" : "C#"
+    },
+
+    "links" : {
+      "github":"https://github.com/empireboy/BindingOfIsaacRemake",
+      "play":"joppevanbasten.nl/bindingofisaac"
+    }
+  }, 
 
   {
     "imageLink":"destructibleground.PNG",
@@ -108,28 +127,7 @@
       "github":"https://github.com/joppevanbasten/Minesweeper",
       "play":"http://joppevanbasten.nl/minesweeper"
     }
-  },
-  {
-    "imageLink":"bindingofisaac.png",
-    "videoLink":"bindingofisaac.mp4",
-    "title":"Vertical Sclice (Binding of Isaac)",
-    "markdownLink":"bindingofisaac.md",
-    "description":"This is a vertical slice project where we made a replica of Binding of Isaac.",
-    "github":"https://github.com/empireboy/BindingOfIsaacRemake",
-    "tags":["unity","C#","2D"],
-
-    "info" : {
-      "Status":"Finished",
-      "Time":"4 Weeks",
-      "Language": "Unity",
-      "Engine" : "C#"
-    },
-
-    "links" : {
-      "github":"https://github.com/empireboy/BindingOfIsaacRemake",
-      "play":"joppevanbasten.nl/bindingofisaac"
-    }
-  },   
+  },  
   {
     "imageLink":"wiskunde.png",
     "videoLink":"wiskunde.mp4",
@@ -147,24 +145,6 @@
     "links" : {
       "github":"https://github.com/joppevanbasten/",
       "play":"http://joppevanbasten.nl/maths/Inequality/"
-    }
-  },
-  {
-    "imageLink":"larsonscanner.PNG",
-    "videoLink":"larsonscanners.mp4",
-    "title":"Larson Scanner",
-    "markdownLink":"larsonscanner.md",
-    "description":"A larson scanner made with an arduino.",
-    "github":"https://github.com/joppevanbasten/RND/tree/master/LarsonScanner",
-    "tags":["C++","Arduino"],
-
-    "info" : {
-      "Status":"Finished",
-      "Language":"C++"
-    },
-
-    "links" : {
-      "github":"https://github.com/joppevanbasten/RND/tree/master/LarsonScanner"
     }
   }
 ]
