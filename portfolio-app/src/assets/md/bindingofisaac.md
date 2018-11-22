@@ -1,6 +1,6 @@
 # Binding of Isaac remake
 
-This was project was a Binding of Isaac "remake". Well we made one room from binding of isaac.  
+This was project was a Binding of Isaac "remake". Well, we made one room from Binding of Isaac.  
 
 ## What did I do and learn?
 
